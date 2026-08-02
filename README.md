@@ -53,6 +53,6 @@ My projects usually begin with a practical problem or an overlooked body of mate
 
 <div align="center">
 
-<sub>Built on the thirty-fourth of October.</sub>
+<sub>Built on October 34th.</sub>
 
 </div>
